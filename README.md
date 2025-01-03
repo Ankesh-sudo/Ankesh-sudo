@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankesh Kumar Thakur
 - 👀 I’m interested in Cyber security.
-- 🌱 I’m currently pursuing Bachelor of Computer Application
+- 🌱 I’m currently pursuing Bachelor of Computer Application.
 -🏫 Student at Centurion university Technology and Management - India
 
 
