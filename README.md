@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Ankesh Kumar Thakur
-- 👀 I’m interested in Cyber security.
-- 🌱 I’m currently pursuing Bachelor of Computer Application.
--🏫 Student at Centurion university Technology and Management - India
+# Hi, I'm Ankesh Kumar Thakur 👋
 
+🎓 BCA Student @ Centurion University  
+🔐 Cybersecurity | 🤖 AI | 🐧 Linux  
+🚀 Building offline-first AI & security projects  
 
-<!---
-Ankesh-sudo/Ankesh-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, Java, JavaScript
+- **Web:** HTML, CSS, JS
+- **AI/ML:** Vosk, Speech Recognition, NLP basics
+- **Security:** Linux, Networking, OSI Model
+- **Tools:** Git, GitHub, VS Code, MySQL
+
+---
