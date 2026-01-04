@@ -1,5 +1,64 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>Hi, I’m Ankesh Kumar Thakur, a BCA student and an aspiring Cybersecurity & AI Engineer with a strong interest in ethical hacking, malware analysis, and machine learning–driven security systems.<br><br>I enjoy working at the intersection of security and intelligence, where I build practical, real-world projects focused on modern cyber threats, automation, and defensive security. My learning philosophy is hands-on and system-oriented — I prefer understanding concepts by building, breaking, analyzing, and improving systems rather than relying only on theory.<br><br>Currently, I am strengthening my expertise in Python, Machine Learning, networking, and Linux, while developing security-focused projects such as malware detection systems, password security tools, vulnerability assessment workflows, and intelligent automation tools.<br><br>My long-term goal is to become a Cybersecurity professional specializing in AI-driven threat detection, analysis, and prevention.<br><br>I strongly believe in continuous learning, structured documentation, and knowledge sharing, which is why I design my projects with proper architecture, SRS documents, reports, and version control using Git & GitHub.<br><br>🔐 What I’m Focused On<br><br>Cybersecurity fundamentals & ethical hacking<br><br>Machine Learning with Python (security-oriented use cases)<br><br>Malware detection & behavioral analysis<br><br>Vulnerability assessment & cloud security basics<br><br>Building real-world, portfolio-ready security tools<br><br>🛠️ Skills Snapshot<br>💻 Programming<br><br>Python<br><br>C++<br><br>JavaScript<br><br>🌐 Web<br><br>HTML<br><br>CSS<br><br>🔒 Security Tools & OS<br><br>Kali Linux<br><br>Nmap<br><br>Netdiscover<br><br>VirtualBox<br><br>VMware<br><br>🗄️ Databases<br><br>DBMS<br><br>SQL<br><br>🧠 Domains<br><br>Cybersecurity<br><br>Ethical Hacking<br><br>Machine Learning<br><br>AI Security<br><br>🔄 Version Control<br><br>Git<br><br>GitHub<br><br>🎯 Career Goal<br><br>To work as a Cybersecurity Engineer / AI Security Researcher, contributing to the development of intelligent, ethical, and scalable security solutions that protect systems from modern and emerging cyber threats.
+# 💫 About Me
+
+## 👨‍💻 Who I Am
+Hi, I’m **Ankesh Kumar Thakur**, a **BCA student** and an aspiring **Cybersecurity & AI Engineer** with a strong interest in **ethical hacking, malware analysis, and machine learning–driven security systems**.
+
+I enjoy working at the intersection of **security and intelligence**, where I build **practical, real-world projects** focused on modern cyber threats, automation, and defensive security.  
+My learning philosophy is **hands-on and system-oriented** — I prefer understanding concepts by **building, breaking, analyzing, and improving systems** rather than relying only on theory.
+
+Currently, I’m sharpening my skills in **Python, Machine Learning, networking, and Linux**, while developing **security-focused projects** such as malware detection systems, password security tools, vulnerability assessment workflows, and intelligent automation tools.
+
+My long-term goal is to become a **Cybersecurity professional specializing in AI-driven threat detection, analysis, and prevention**.
+
+I strongly believe in **continuous learning, structured documentation, and knowledge sharing**, which is why I design my projects with proper **architecture, SRS documents, reports, and version control** using **Git & GitHub**.
+
+---
+
+## 🔐 Current Focus Areas
+- 🛡️ Cybersecurity fundamentals & ethical hacking  
+- 🤖 Machine Learning with Python (security-oriented use cases)  
+- 🦠 Malware detection & behavioral analysis  
+- ☁️ Vulnerability assessment & cloud security basics  
+- 🧩 Building real-world, portfolio-ready security tools  
+
+---
+
+## 🛠️ Skills Snapshot
+
+### 💻 Programming
+- Python  
+- C++  
+- JavaScript  
+
+### 🌐 Web Technologies
+- HTML  
+- CSS  
+
+### 🔒 Security Tools & Operating Systems
+- Kali Linux  
+- Nmap  
+- Netdiscover  
+- VirtualBox  
+- VMware  
+
+### 🗄️ Databases
+- DBMS  
+- SQL  
+
+### 🧠 Domains of Interest
+- Cybersecurity  
+- Ethical Hacking  
+- Machine Learning  
+- AI Security  
+
+### 🔄 Version Control
+- Git  
+- GitHub  
+
+---
+
+## 🎯 Career Goal
+To work as a **Cybersecurity Engineer / AI Security Researcher**, contributing to the development of **intelligent, ethical, and scalable security solutions** that protect systems from modern and emerging cyber threats.
 
 
 # 💻 Tech Stack:
